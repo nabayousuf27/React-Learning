@@ -4,12 +4,20 @@ import Description from './Description.jsx';
 
 function App() {
   return (
-    <div>
+    // <div>
+    //   <Title />
+    //   <Description />
+    //   <Title />
+    //   <Description />
+    // </div>
+
+    //using react fragments
+    <>
       <Title />
       <Description />
       <Title />
       <Description />
-    </div>
+    </>
   );
 }
 
