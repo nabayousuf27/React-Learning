@@ -4,5 +4,4 @@ function Description(){
     <p>hey i am paragraph tag in description fucntion component</p>
   );
 }
-
-//export
+export default Description;

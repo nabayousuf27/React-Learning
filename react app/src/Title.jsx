@@ -7,4 +7,4 @@ function Title(){
   );
 }
 
-//export
+export default Title;

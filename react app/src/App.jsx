@@ -1,5 +1,6 @@
 import './App.css'
-//import 
+import Title from "./Title.jsx"; 
+import Description from './Description.jsx';
 
 function App() {
   return (
