@@ -1,4 +1,6 @@
 .Product{
     border : 1px solid purple ;
     border-radius: 25px;
+    padding: 8px 8px;
+    margin: 10px 10px;
 }

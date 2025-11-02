@@ -14,10 +14,6 @@ function App() {
 
     //using react fragments
     <>
-      <Title />
-      <Description />
-      <Title />
-      <Description />
       <ProductTab />
     </>
   );
